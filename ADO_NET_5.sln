@@ -5,9 +5,9 @@ VisualStudioVersion = 17.9.34701.34
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ADO_NET_5", "ADO_NET_5\ADO_NET_5.csproj", "{E5F492D9-4AB1-4F88-BB2E-698D13F73A69}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary1", "ClassLibrary1\ClassLibrary1.csproj", "{EB56D3BE-B681-4C62-9BC1-59401D440CC2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Models", "ClassLibrary1\Models.csproj", "{EB56D3BE-B681-4C62-9BC1-59401D440CC2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameDBContext", "ClassLibrary2\GameDBContext.csproj", "{CF3EE9EA-163D-408C-A238-CA7E6D735547}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccess", "ClassLibrary2\DataAccess.csproj", "{CF3EE9EA-163D-408C-A238-CA7E6D735547}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
